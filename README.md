@@ -12,7 +12,8 @@
 </div>
 
   ##
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuti&layout=compact)
+  ##
 <div> 
   <a href="https://www.instagram.com/marcutii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marcuccijuan9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,5 +22,5 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuti&layout=donut-vertical)](https://github.com/Marcuti/github-readme-stats)
+
 
