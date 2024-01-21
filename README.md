@@ -12,7 +12,7 @@
 </div>
 
   ##
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuti&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuti&layout=compact/bg-color=black)
   ##
 <div> 
   <a href="https://www.instagram.com/marcutii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
