@@ -1,6 +1,6 @@
 ### Olá me chamo Juan Marcucci
-## Desenvolvedor Front-End
-### Sou do RJ, procuro desenvolver minhas habilidades e softskills.
+## --Desenvolvedor Front-End--
+### Sou do estado do Rio de Janeiro, procuro desenvolver minhas habilidades, softskills e melhorar minhas atribuições para área de trabalho.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
