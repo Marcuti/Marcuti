@@ -3,7 +3,7 @@
 ### Sou do estado do Rio de Janeiro, procuro desenvolver minhas habilidades, softskills e melhorar minhas atribuições para área de trabalho, atualmente estudando para entrar no mercado de trabalho como back-end.
 
 <div>
-  <img  height="200em"  width="400em" src="https://github-readme-stats.vercel.app/api?username=Marcuti&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img  height="120" width="200"src="https://github-readme-stats.vercel.app/api?username=Marcuti&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuti&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
