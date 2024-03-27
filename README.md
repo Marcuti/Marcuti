@@ -1,6 +1,6 @@
 ### Olá me chamo Juan Marcucci
 ### --Desenvolvedor Back-end--
-### Sou do estado do Rio de Janeiro, procuro desenvolver minhas habilidades, softskills e melhorar minhas atribuições para área de trabalho, atualmente estudando para entrar no mercado de trabalho como back-end.
+### Sou do estado do Rio de Janeiro, estudante de A.D.S, atualmente estudando para entrar no mercado de trabalho como Desenvolvedor Back-End.
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcuti&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
